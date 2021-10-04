@@ -1,8 +1,9 @@
 import React, { Component } from "react";
+import Card from '../components/Card/Card'
 
 class List extends Component {
   render() {
-    return <h1>Top 10 Movies</h1>;
+    return <Card />;
   }
 }
 

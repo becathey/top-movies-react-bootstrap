@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "img": {
+      "src": "src/images/pulpfiction.jpg",
+      "alt": "pulp fiction"
+    },
+    "ranking": 1
+  },
+  {
+    "id": 2,
+    "title": "Chungking Express",
+    "director": "Wong Kar-wai",
+    "year": 1994,
+    "img": {
+      "src": "src/images/chungking.jpg",
+      "alt": "chungking express"
+    },
+    "ranking": 2
+  },
+  {
+    "id": 3,
+    "title": "Trois Couleurs: Rouge",
+    "director": "Krzysztof Kieslowski",
+    "year": 1994,
+    "img": {
+      "src": "src/images/rouge.jpg",
+      "alt": "red"
+    },
+    "ranking": 3
+  },
+  {
+    "id": 4,
+    "title": "A History of Violence",
+    "director": "David Cronenberg",
+    "year": 2005,
+    "img": {
+      "src": "src/images/historyofviolence.jpg",
+      "alt": "history of violence"
+    },
+    "ranking": 4
+  },
+  {
+    "id": 5,
+    "title": "Alien",
+    "director": "Ridley Scott",
+    "year": 1979,
+    "img": {
+      "src": "src/images/alien.jpg",
+      "alt": "alien"
+    },
+    "ranking": 5
+  },
+  {
+    "id": 6,
+    "title": "Unforgiven",
+    "director": "Clint Eastwood",
+    "year": 1992,
+    "img": {
+      "src": "src/images/unforgiven.jpg",
+      "alt": "unforgiven"
+    },
+    "ranking": 6
+  },
+  {
+    "id": 7,
+    "title": "Cloud Atlas",
+    "director": "The Wachowskis, Tom Tykwer",
+    "year": 2012,
+    "img": {
+      "src": "src/images/cloudatlas.jpg",
+      "alt": "cloud atlas"
+    },
+    "ranking": 7
+  },
+  {
+    "id": 8,
+    "title": "Fargo",
+    "director": "Joel Coen",
+    "year": 1996,
+    "img": {
+      "src": "src/images/fargo.jpg",
+      "alt": "fargo"
+    },
+    "ranking": 8
+  },
+  {
+    "id": 9,
+    "title": "Sling Blade",
+    "director": "Billy Bob Thornton",
+    "year": 1996,
+    "img": {
+      "src": "src/images/slingblade.jpg",
+      "alt": "sling blade"
+    },
+    "ranking": 9
+  },
+  {
+    "id": 10,
+    "title": "Dead Man",
+    "director": "Jim Jarmusch",
+    "year": 1995,
+    "img": {
+      "src": "src/images/deadman.jpg",
+      "alt": "dead man"
+    },
+    "ranking": 10
+  }
+]

@@ -10,7 +10,7 @@ class List extends Component {
       loading: true,
     };
   }
-  async componentDidMount() {
+  componentDidMount() {
     if (moviesJSON) {
       this.setState({
         data: moviesJSON,
